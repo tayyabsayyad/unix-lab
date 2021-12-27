@@ -13,10 +13,10 @@
 
 ## Lab Modules 
 
-+ Module 1 : Introduction to Unix
-+ Module 2 : Basic Commands
-+ Module 3 : File System and User Management Commands
-+ Module 4 : Memory and Process Management Commands 
-+ Module 5 : Bscic shell scripting 
-+ Module 6 : Advanced Shell Scripting 
++ [Module 1 : Introduction to Unix](/module1)
++ [Module 2 : Basic Commands](/module2)
++ [Module 3 : File System and User Management Commands](module3)
++ [Module 4 : Memory and Process Management Commands ](module4)
++ [Module 5 : Bscic shell scripting ](module2)
++ [Module 6 : Advanced Shell Scripting ](module6)
 
