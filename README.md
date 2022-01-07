@@ -17,6 +17,6 @@
 + [Module 2 : Basic Commands](module2)
 + [Module 3 : File System and User Management Commands](module3)
 + [Module 4 : Memory and Process Management Commands ](module4)
-+ [Module 5 : Bscic shell scripting ](module2)
++ [Module 5 : Bscic shell scripting ](module5)
 + [Module 6 : Advanced Shell Scripting ](module6)
 
