@@ -16,13 +16,27 @@ Following are the important facts from the history of the Unix
 + Early deveopers were 	Ken Thompson, Dennis Ritchie and others 
 + Initially it was MULTICS but later on it was renamed to UNIX 
 + Licensed as Proprietary
-+ Its written in Written in	C and Assembly language
++ Written in C and Assembly language
+
+More on History of Linux and Unix 
+1. https://en.wikipedia.org/wiki/History_of_Unix
+2. https://en.wikipedia.org/wiki/History_of_Linux
+
+Read about the FOSS and Open Source sotware 
+1. https://www.gnu.org/philosophy/philosophy.html
+2. https://opensource.org/osd
 
 
-Read more about the History of UNIX here : https://en.wikipedia.org/wiki/History_of_Unix
+Linux Kernal and their documentation
+1. https://github.com/torvalds/linux
+2. https://www.kernel.org/doc/html/latest/
+3. https://github.com/torvalds
 
 
-Read History of Linux here : https://en.wikipedia.org/wiki/History_of_Linux
+Other Relavant Resources 
+1. Linux Will Never Be As "Good" As Windows : https://www.youtube.com/watch?v=BkKm2Gjluxg
+2. Ubuntu, Then Arch. It's The Road So Many Of Us Travel : https://www.youtube.com/watch?v=hb2iA28ditc
+
 
 
 Self Evaluation 
@@ -32,6 +46,9 @@ Self Evaluation
 3. Why some people call it GNU/Linux ? 
 4. Explain the process of Kernel development ? 
 5. Explain the history of microsoft in context with Linux ? 
+6. Discuss about FOSS and Open Source philosophy.
+
+## Unix Architecture
 
 
 
